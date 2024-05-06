@@ -1,5 +1,5 @@
-## NAME: POZHILAN V D
-## REG NO.:212223240118
+## NAME: DEEPAK R
+## REG NO.:212223040031
 # Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
